@@ -1,0 +1,15 @@
+E:\Seminar4\Task3\bin\Debug\net6.0\Task3.exe
+E:\Seminar4\Task3\bin\Debug\net6.0\Task3.deps.json
+E:\Seminar4\Task3\bin\Debug\net6.0\Task3.runtimeconfig.json
+E:\Seminar4\Task3\bin\Debug\net6.0\Task3.dll
+E:\Seminar4\Task3\bin\Debug\net6.0\Task3.pdb
+E:\Seminar4\Task3\obj\Debug\net6.0\Task3.csproj.AssemblyReference.cache
+E:\Seminar4\Task3\obj\Debug\net6.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Seminar4\Task3\obj\Debug\net6.0\Task3.AssemblyInfoInputs.cache
+E:\Seminar4\Task3\obj\Debug\net6.0\Task3.AssemblyInfo.cs
+E:\Seminar4\Task3\obj\Debug\net6.0\Task3.csproj.CoreCompileInputs.cache
+E:\Seminar4\Task3\obj\Debug\net6.0\Task3.dll
+E:\Seminar4\Task3\obj\Debug\net6.0\refint\Task3.dll
+E:\Seminar4\Task3\obj\Debug\net6.0\Task3.pdb
+E:\Seminar4\Task3\obj\Debug\net6.0\Task3.genruntimeconfig.cache
+E:\Seminar4\Task3\obj\Debug\net6.0\ref\Task3.dll
